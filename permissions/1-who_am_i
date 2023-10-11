@@ -1,2 +1,2 @@
 #!/bin/bash
-Youmsdk
+echo "$EUID"
