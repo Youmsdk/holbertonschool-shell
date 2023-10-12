@@ -1,2 +1,2 @@
 #!/bin/bash
-stat chmod hello
+chmod mode hello
